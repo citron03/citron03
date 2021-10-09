@@ -3,6 +3,7 @@
 <br>
 🌱 I’m currently learning Java, Spring framework.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=citron03)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 citron03/citron03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
