@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @citron03
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java, Spring framework.
 
 
 <!---
