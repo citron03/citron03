@@ -2,15 +2,26 @@
 </br>
 👀 I’m interested in Web Development
 </br>
-🌱 I’m currently learning Java, Spring framework.
+🌱 I’m currently learning JavaScript, React, BlockChain.
+🌱 I have studied Java and Spring Boot in the past.
 </br>
 <h4><b>✨ Tech Stack</b></h4>
 <p>
+<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+<img src ="https://img.shields.io/badge/react-09D3AC.svg?&style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+
+</br>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"> 
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+
+
+<p align="center">
+  <a href="https://velog.io/@citron03"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
+  <a href="mailto:cchan0617@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+</p>
 
 <!---   
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp 
