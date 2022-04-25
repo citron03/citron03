@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
 <img src ="https://img.shields.io/badge/react-09D3AC.svg?&style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/solidity-34495e?style=flat-square&logo=solidity&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 
 </br>
@@ -31,8 +32,11 @@
 
 <!---
 레포지토리의 상태를 요약해서 나타내는 배지
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=citron03)](https://github.com/anuraghazra/github-readme-stats)
 --->
+<h4>🍉 Repository Summary</h4>
+
+[![Citron's github stats](https://github-readme-stats.vercel.app/api?username=citron03)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 citron03/citron03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
