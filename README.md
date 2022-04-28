@@ -33,7 +33,7 @@
 <!---
 레포지토리의 상태를 요약해서 나타내는 배지
 --->
-<h4>🍉 Repository Summary</h4>
+<h4>🍉 Repositories Summary</h4>
 
 [![Citron's github stats](https://github-readme-stats.vercel.app/api?username=citron03)](https://github.com/anuraghazra/github-readme-stats)
 
