@@ -1,5 +1,4 @@
 <h3>👋 Hi, I’m @citron03</h3>
-</br>
 <h4>🍉 I’m interested in Web FrontEnd Development</h4>
 <h4>🍉 I’m currently learning JavaScript, TypeScript, React</h4>
 🌱 I have studied Java and Spring Boot in the past.
