@@ -1,6 +1,6 @@
 <h3>👋 Hi, I’m @citron03</h3>
 </br>
-👀 I’m interested in Web Development
+👀 I’m interested in Web FrontEnd Development
 </br>
 🌱 I’m currently learning JavaScript, React, BlockChain.
 🌱 I have studied Java and Spring Boot in the past.
