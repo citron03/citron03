@@ -7,8 +7,8 @@
 </br>
 <h4><b>✨ Tech Stack</b></h4>
 <p>
-<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Typescript-3498db?style=flat-square&logo=typescript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/typescript-3498db?style=flat-square&logo=typescript&logoColor=white"/></a>
 <img src ="https://img.shields.io/badge/react-2980b9.svg?&style=flat-square&logo=react&logoColor=white"/>
 </br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
