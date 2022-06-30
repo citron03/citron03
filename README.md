@@ -1,14 +1,17 @@
 <h3>👋 Hi, I’m @citron03</h3>
 </br>
-👀 I’m interested in Web FrontEnd Development
-</br>
-🌱 I’m currently learning JavaScript, React, BlockChain.
+<h4>🍉 I’m interested in Web FrontEnd Development</h4>
+<h4>🍉 I’m currently learning JavaScript, TypeScript, React</h4>
 🌱 I have studied Java and Spring Boot in the past.
+</br>
+🌱 I have experience in receiving BlockChain-related education.
 </br>
 <h4><b>✨ Tech Stack</b></h4>
 <p>
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-<img src ="https://img.shields.io/badge/react-09D3AC.svg?&style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Typescript-3498db?style=flat-square&logo=typescript&logoColor=white"/></a>
+<img src ="https://img.shields.io/badge/react-2980b9.svg?&style=flat-square&logo=react&logoColor=white"/>
+</br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/solidity-34495e?style=flat-square&logo=solidity&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
