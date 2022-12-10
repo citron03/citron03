@@ -8,17 +8,22 @@
 <h4><b>✨ Tech Stack</b></h4>
 <p>
 <img src="https://img.shields.io/badge/javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/typescript-3498db?style=flat-square&logo=typescript&logoColor=white"/></a>
-<img src ="https://img.shields.io/badge/react-2980b9.svg?&style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
+<img src ="https://img.shields.io/badge/react-61DAFB.svg?&style=flat-square&logo=react&logoColor=white"/>
+</br>
+<img src ="https://img.shields.io/badge/react native-0088CC.svg?&style=flat-square&logo=react&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Next.js-000000.svg?&style=flat-square&logo=Next.js&logoColor=white"/>
+
+<!---
 </br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/solidity-34495e?style=flat-square&logo=solidity&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
-
 </br>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"> 
 <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white">
+--->
 
 <h4><b>✨ Web Site</b></h4>
 <p>
