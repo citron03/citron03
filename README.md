@@ -44,6 +44,7 @@
 
 [![Citron's github stats](https://github-readme-stats.vercel.app/api?username=citron03)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=citron03)](https://github.com/citron03/github-readme-stats)
 
 <!---
 citron03/citron03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
