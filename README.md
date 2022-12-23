@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white">
 --->
 
-<h4><b>✨ Mail</b></h4>
+<h4><b>✨ Contacts</b></h4>
 <p>
   
 <!---   
