@@ -1,9 +1,15 @@
 <h3>👋 Hi, I’m @citron03</h3>
-<h4>🍉 I’m interested in Web FrontEnd Development</h4>
-<h4>🍉 I’m currently learning JavaScript, TypeScript, React</h4>
+FrontEnd Developer <br/>
+Usually programming with JavaScript, TypeScript <br/>
+Interested in NextJS and React Native. <br/>
+
+  
+<!--
 🌱 I have studied Java and Spring Boot in the past.
 </br>
 🌱 I have experience in receiving BlockChain-related education.
+--->
+
 </br>
 <h4><b>✨ Tech Stack</b></h4>
 <p>
@@ -44,7 +50,7 @@
 <!---
 레포지토리의 상태를 요약해서 나타내는 배지
 --->
-<h4>🍉 Repositories Summary</h4>
+<h3>🍉 Repositories Summary</h3>
 
 [![Citron's github stats](https://github-readme-stats.vercel.app/api?username=citron03)](https://github.com/anuraghazra/github-readme-stats)
 
