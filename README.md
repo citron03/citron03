@@ -11,7 +11,7 @@ Interested in NextJS and React Native. <br/>
 --->
 
 </br>
-<h4><b>✨ Tech Stack</b></h4>
+<h4><b>⚡️ Tech Stack</b></h4>
 <p>
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
@@ -34,7 +34,7 @@ Interested in NextJS and React Native. <br/>
 <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white">
 --->
 
-<h4><b>✨ Contacts</b></h4>
+<h4><b>🤙 Contacts</b></h4>
 <p>
   
 <!---   
