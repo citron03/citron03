@@ -2,17 +2,17 @@
 FrontEnd Developer <br/>
 Usually programming with JavaScript, TypeScript <br/>
 Interested in NextJS and React Native. <br/>
+<br/>
 
-I am also interested in learning backend development for better FE development (with Express.js) <br/>
-
+I am also interested in learning backend development for better FE development (with Express.js)
 
 <!--
 🌱 I have studied Java and Spring Boot in the past.
 </br>
-🌱 I have experience in receiving BlockChain-related education.
 --->
+And, I have experience in receiving BlockChain DApp related education.
 
-</br>
+
 <h4><b>⚡️ Tech Stack</b></h4>
 <p>
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
