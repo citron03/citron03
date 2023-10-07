@@ -3,7 +3,9 @@ FrontEnd Developer <br/>
 Usually programming with JavaScript, TypeScript <br/>
 Interested in NextJS and React Native. <br/>
 
-  
+I am also interested in learning backend development for better FE development (with Express.js) <br/>
+
+
 <!--
 🌱 I have studied Java and Spring Boot in the past.
 </br>
