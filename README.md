@@ -38,12 +38,8 @@ And, I have experience in receiving BlockChain DApp related education.
 
 <h4><b>🤙 Contacts</b></h4>
 <p>
-  
-<!---   
-  <a href="https://velog.io/@citron03"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
---->
-
-  <a href="mailto:cchan0617@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+  <a href="https://citron031.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-ff7f00?style=flat-square&logo=Vimeo&logoColor=white&link=https://citron031.tistory.com"/></a>
+  <a href="mailto:cchan0617@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=cchan0617@gmail.com"/></a>
 </p>
 
 <!---   
