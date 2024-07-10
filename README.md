@@ -4,13 +4,13 @@ Usually programming with JavaScript, TypeScript <br/>
 Interested in NextJS and React Native. <br/>
 <br/>
 
-I am also interested in learning backend development for better FE development (with Express.js)
+# I am also interested in learning backend development for better FE development (with Express.js)
 
 <!--
 🌱 I have studied Java and Spring Boot in the past.
 </br>
 --->
-And, I have experience in receiving BlockChain DApp related education.
+# And, I have experience in receiving BlockChain DApp related education.
 
 
 <h4><b>⚡️ Tech Stack</b></h4>
