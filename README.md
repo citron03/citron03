@@ -1,21 +1,8 @@
-<h3>👋 Hi, I’m @citron03</h3>
-FrontEnd Developer <br/>
-Usually programming with JavaScript, TypeScript <br/>
-Interested in NextJS and React Native. <br/>
+<h3>👋 안녕하세요! I’m @citron03</h3>
+Frontend 개발자입니다. <br/>
+JavaScript, TypeScript를 주로 사용합니다. <br/>
 <br/>
 
-<!--
-I am also interested in learning backend development for better FE development (with Express.js)
---->
-
-<!--
-🌱 I have studied Java and Spring Boot in the past.
-</br>
---->
-
-<!--
-And, I have experience in receiving BlockChain DApp related education.
---->
 
 <h4><b>⚡️ Tech Stack</b></h4>
 <p>
@@ -55,7 +42,7 @@ And, I have experience in receiving BlockChain DApp related education.
 <!---
 레포지토리의 상태를 요약해서 나타내는 배지
 --->
-<h3>🍉 Repositories Summary</h3>
+<h3>😎 Repositories Summary</h3>
 
 [![Citron's github stats](https://github-readme-stats.vercel.app/api?username=citron03&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
