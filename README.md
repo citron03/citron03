@@ -50,6 +50,11 @@ JavaScript, TypeScript를 주로 사용합니다. <br/>
 
 # Tistory
 <!-- BLOG-POST-LIST:START -->
+- [jscodeshift로 대규모 코드 리팩토링 자동화하기](https://citron031.tistory.com/330)
+- [깃허브 AI 코드리뷰 자동화 도입기 &lpar;PR_AGENT, GEMENI &amp;amp; 무료  &rpar;](https://citron031.tistory.com/329)
+- [React 19의 &amp;lt;Activity&amp;gt;란?](https://citron031.tistory.com/328)
+- [중첩 래퍼&lpar;Wrapper&rpar; 컴포넌트가 많은 UI 구조에서의 이벤트 처리 전략 고민해보기](https://citron031.tistory.com/327)
+- [MIME 타입&lpar;Multipurpose Internet Mail Extensions&rpar; 정리](https://citron031.tistory.com/326)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
