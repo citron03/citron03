@@ -44,7 +44,9 @@ JavaScript, TypeScript를 주로 사용합니다. <br/>
 --->
 <h3>😎 Repositories Summary</h3>
 
+<!---
 [![Citron's github stats](https://github-readme-stats.vercel.app/api?username=citron03&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+---->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=citron03&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
