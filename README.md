@@ -42,7 +42,6 @@ JavaScript, TypeScript를 주로 사용합니다. <br/>
 <!---
 레포지토리의 상태를 요약해서 나타내는 배지
 
----->
 
 <h3>😎 Repositories Summary</h3>
 
@@ -50,6 +49,7 @@ JavaScript, TypeScript를 주로 사용합니다. <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=citron03&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
+---->
 
 # Tistory
 <!-- BLOG-POST-LIST:START -->
