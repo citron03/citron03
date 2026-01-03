@@ -53,11 +53,11 @@ JavaScript, TypeScript를 주로 사용합니다. <br/>
 
 # Tistory
 <!-- BLOG-POST-LIST:START -->
+- [Notes from reading   You Don&#39;t Know JS Yet - 9](https://citron031.tistory.com/342)
+- [배포 릴리즈 관리, 진짜 알아보기 &lpar;Semantic Versioning &amp;middot; 릴리즈 태그 &amp;middot; 배포 자동화 &amp;middot; Semantic-release 완전 안내서&rpar;](https://citron031.tistory.com/335)
 - [Notes from reading   You Don&#39;t Know JS Yet - 8](https://citron031.tistory.com/340)
 - [Element.setHTML&lpar;&rpar;이란 ??](https://citron031.tistory.com/333)
 - [Chrome dev tools mcp 사용해보기](https://citron031.tistory.com/332)
-- [Notes from reading   You Don&#39;t Know JS Yet - 7](https://citron031.tistory.com/337)
-- [가상호스트&lpar;Virtual Host&rpar;란 무엇인가?](https://citron031.tistory.com/331)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
