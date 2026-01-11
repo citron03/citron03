@@ -1,6 +1,5 @@
-<h3>👋 안녕하세요! I’m @citron03</h3>
-Frontend 개발자입니다. <br/>
-JavaScript, TypeScript를 주로 사용합니다. <br/>
+<h3>🐬 안녕하세요! I’m @citron03</h3>
+JS/TS FE 개발자입니다. <br/>
 <br/>
 
 
