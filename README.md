@@ -52,11 +52,11 @@ JS/TS FE 개발자입니다. <br/>
 
 # Tistory
 <!-- BLOG-POST-LIST:START -->
+- [Notes from reading   You Don&#39;t Know JS Yet - 10](https://citron031.tistory.com/344)
 - [FE 개발에서 디버깅 좀 잘해보자](https://citron031.tistory.com/336)
 - [Notes from reading   You Don&#39;t Know JS Yet - 9](https://citron031.tistory.com/342)
 - [배포 릴리즈 관리, 진짜 알아보기 &lpar;Semantic Versioning &amp;middot; 릴리즈 태그 &amp;middot; 배포 자동화 &amp;middot; Semantic-release 완전 안내서&rpar;](https://citron031.tistory.com/335)
 - [Notes from reading   You Don&#39;t Know JS Yet - 8](https://citron031.tistory.com/340)
-- [Element.setHTML&lpar;&rpar;이란 ??](https://citron031.tistory.com/333)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
