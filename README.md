@@ -52,11 +52,11 @@ JS/TS FE 개발자입니다. <br/>
 
 # Tistory
 <!-- BLOG-POST-LIST:START -->
+- [NFC / NFD란 무엇이고, 왜 문자열 이슈를 만든 걸까 ⁉️](https://citron031.tistory.com/349)
 - [HTTPS에서는 지원되나 HTTP에서는 지원되지 않는 기능들](https://citron031.tistory.com/338)
 - [OpenAPI 기반 TypeScript API 클라이언트/코드 생성 도구 !!](https://citron031.tistory.com/339)
 - [Notes from reading   You Don&#39;t Know JS Yet - 10](https://citron031.tistory.com/344)
 - [FE 개발에서 디버깅 좀 잘해보자](https://citron031.tistory.com/336)
-- [Notes from reading   You Don&#39;t Know JS Yet - 9](https://citron031.tistory.com/342)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
