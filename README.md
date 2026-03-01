@@ -52,11 +52,11 @@ JS/TS FE 개발자입니다. <br/>
 
 # Tistory
 <!-- BLOG-POST-LIST:START -->
+- [UI/UX의 10가지 심리학 법칙 - 존 야블론스키](https://citron031.tistory.com/346)
 - [TypeScript에서 Record 타입 선언 vs satisfies의 차이](https://citron031.tistory.com/343)
 - [Shadow DOM이란 ? ❔❓](https://citron031.tistory.com/345)
 - [NFC / NFD란 무엇이고, 왜 문자열 이슈를 만든 걸까 ⁉️](https://citron031.tistory.com/349)
 - [HTTPS에서는 지원되나 HTTP에서는 지원되지 않는 기능들](https://citron031.tistory.com/338)
-- [OpenAPI 기반 TypeScript API 클라이언트/코드 생성 도구 !!](https://citron031.tistory.com/339)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
