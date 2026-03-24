@@ -19,7 +19,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 **State Management & Tools**
-![Jotai](https://img.shields.io/badge/Jotai-000000?style=flat-square&logo=jotai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 <br/>
