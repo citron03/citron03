@@ -32,6 +32,12 @@
 
 <br/>
 
+### 🤙 Contact
+<p>
+  <a href="https://citron031.tistory.com"><img src="https://img.shields.io/badge/Blog-ff7f00?style=for-the-badge&logo=Vimeo&logoColor=white"/></a>
+  <a href="mailto:cchan0617@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+</p>
+
 # Tistory
 <!-- BLOG-POST-LIST:START -->
 - [함수 파라미터 기본값, 왜 undefined는 되고 null은 안 될까?](https://citron031.tistory.com/347)
