@@ -39,11 +39,11 @@
 
 # Tistory
 <!-- BLOG-POST-LIST:START -->
+- [HTML form에서 readonly와 disabled의 차이점 정리 ✌️](https://citron031.tistory.com/348)
 - [함수 파라미터 기본값, 왜 undefined는 되고 null은 안 될까?](https://citron031.tistory.com/347)
 - [UI/UX의 10가지 심리학 법칙 - 존 야블론스키](https://citron031.tistory.com/346)
 - [TypeScript에서 Record 타입 선언 vs satisfies의 차이](https://citron031.tistory.com/343)
 - [Shadow DOM이란 ? ❔❓](https://citron031.tistory.com/345)
-- [NFC / NFD란 무엇이고, 왜 문자열 이슈를 만든 걸까 ⁉️](https://citron031.tistory.com/349)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
