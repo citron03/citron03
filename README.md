@@ -39,11 +39,11 @@
 
 # Tistory
 <!-- BLOG-POST-LIST:START -->
+- [웹에서 &amp;ldquo;실시간&amp;rdquo;은 어떻게 구현될까?](https://citron031.tistory.com/350)
 - [Tofu, 모지바케&lpar;文字化け&rpar;, 대체문자&lpar;�&rpar; &amp;mdash; 문자 깨짐   정리하기](https://citron031.tistory.com/351)
 - [브라우저 팝업이 사장된 이유](https://citron031.tistory.com/355)
 - [HTML form에서 readonly와 disabled의 차이점 정리 ✌️](https://citron031.tistory.com/348)
 - [함수 파라미터 기본값, 왜 undefined는 되고 null은 안 될까?](https://citron031.tistory.com/347)
-- [UI/UX의 10가지 심리학 법칙 - 존 야블론스키](https://citron031.tistory.com/346)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
