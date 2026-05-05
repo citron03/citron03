@@ -1,9 +1,12 @@
 max_lines: 5
 
 disabled_events:
-  - comments
-  - issues
-  - stars
-  - forks
-  - releases
-  - commits
+  - CommitCommentEvent
+  - PushEvent
+  - IssuesEvent
+  - IssueCommentEvent
+  - WatchEvent
+  - ForkEvent
+  - ReleaseEvent
+  - CreateEvent
+  - DeleteEvent
