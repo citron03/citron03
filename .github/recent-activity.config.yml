@@ -1,10 +1,10 @@
 max_lines: 5
 
 disabled_events:
-  - CommitCommentEvent
   - PushEvent
   - IssuesEvent
   - IssueCommentEvent
+  - CommitCommentEvent
   - WatchEvent
   - ForkEvent
   - ReleaseEvent
