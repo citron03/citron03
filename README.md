@@ -23,11 +23,23 @@
 
 <br/>
 
+<!--
+
 ### 📈 Stats & Activity
 
 | **Github Stats** | **Top Languages** |
 | :---: | :---: |
 | ![Citron's github stats](https://github-readme-stats.vercel.app/api?username=citron03&show_icons=true&theme=nightowl) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=citron03&layout=compact&theme=nightowl) |
+
+-->
+
+## Recent Activity
+
+This is a list of my most recent activity on GitHub.
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
 
 <br/>
 
