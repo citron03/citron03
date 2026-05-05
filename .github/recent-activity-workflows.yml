@@ -1,0 +1,16 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 * * * *' # 1시간마다
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Readme-Workflows/recent-activity@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
