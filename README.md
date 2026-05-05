@@ -1,4 +1,4 @@
-# 🐬 Hello, I'm Lee Yoo-chan
+# 🐬 Hello, I'm Lee Yu-chan
 
 > **Frontend Developer | React & TypeScript Enthusiast**
 > Focus on clean code, seamless UX, and AI-driven solutions.
