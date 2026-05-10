@@ -59,11 +59,11 @@ Last Updated: Sunday, May 10th, 2026, 3:43:10 AM
 
 # Tistory
 <!-- BLOG-POST-LIST:START -->
+- [window.isSecureContext &amp;mdash; 브라우저가 &amp;ldquo;안전한 페이지&amp;rdquo;인지 판단하는 방법](https://citron031.tistory.com/353)
 - [Notes from reading   You Don&#39;t Know JS Yet - 11](https://citron031.tistory.com/360)
 - [Git Submodule 정리하기 &lpar;with 예제&rpar;](https://citron031.tistory.com/352)
 - [웹에서 &amp;ldquo;실시간&amp;rdquo;은 어떻게 구현될까?](https://citron031.tistory.com/350)
 - [Tofu, 모지바케&lpar;文字化け&rpar;, 대체문자&lpar;�&rpar; &amp;mdash; 문자 깨짐   정리하기](https://citron031.tistory.com/351)
-- [브라우저 팝업이 사장된 이유](https://citron031.tistory.com/355)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
