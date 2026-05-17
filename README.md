@@ -38,15 +38,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [citron03/tistory-citron031-sitemap](https://github.com/citron03/tistory-citron031-sitemap)<br>
-2. ⬆️ Pushed undefined commit(s) to [citron03/tistory-citron031-sitemap](https://github.com/citron03/tistory-citron031-sitemap)<br>
-3. ⬆️ Pushed undefined commit(s) to [citron03/frontend-stack-playground](https://github.com/citron03/frontend-stack-playground)<br>
-4. ⬆️ Pushed undefined commit(s) to [citron03/frontend-stack-playground](https://github.com/citron03/frontend-stack-playground)<br>
-5. ❌ Closed PR [#27](undefined) in [citron03/frontend-stack-playground](https://github.com/citron03/frontend-stack-playground)<br>
+1. ⬆️ Pushed undefined commit(s) to [citron03/Pulsefolio](https://github.com/citron03/Pulsefolio)<br>
+2. ⬆️ Pushed undefined commit(s) to [citron03/Pulsefolio](https://github.com/citron03/Pulsefolio)<br>
+3. ⬆️ Pushed undefined commit(s) to [citron03/Pulsefolio](https://github.com/citron03/Pulsefolio)<br>
+4. ⬆️ Pushed undefined commit(s) to [citron03/Pulsefolio](https://github.com/citron03/Pulsefolio)<br>
+5. ⬆️ Pushed undefined commit(s) to [citron03/Pulsefolio](https://github.com/citron03/Pulsefolio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 16th, 2026, 3:34:33 AM
+Last Updated: Sunday, May 17th, 2026, 3:53:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br/>
