@@ -59,11 +59,11 @@ Last Updated: Monday, May 25th, 2026, 4:13:56 AM
 
 # Tistory
 <!-- BLOG-POST-LIST:START -->
+- [Notes from reading   You Don&#39;t Know JS Yet - 13](https://citron031.tistory.com/365)
 - [Vitest로 테스트 커버리지 확인하고 챙기기](https://citron031.tistory.com/356)
 - [Notes from reading   You Don&#39;t Know JS Yet - 12](https://citron031.tistory.com/362)
 - [window.isSecureContext &amp;mdash; 브라우저가 &amp;ldquo;안전한 페이지&amp;rdquo;인지 판단하는 방법](https://citron031.tistory.com/353)
 - [Notes from reading   You Don&#39;t Know JS Yet - 11](https://citron031.tistory.com/360)
-- [Git Submodule 정리하기 &lpar;with 예제&rpar;](https://citron031.tistory.com/352)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
