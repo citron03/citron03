@@ -59,11 +59,11 @@ Last Updated: Sunday, May 31st, 2026, 4:15:28 AM
 
 # Tistory
 <!-- BLOG-POST-LIST:START -->
+- [Axios 사태로 다시 생각해보는 &amp;ldquo;안전하게 npm 패키지 사용하는 방법&amp;rdquo;](https://citron031.tistory.com/357)
 - [pnpm + Corepack 조합, 왜 요즘 표준처럼 쓰일까?](https://citron031.tistory.com/363)
 - [Notes from reading   You Don&#39;t Know JS Yet - 13](https://citron031.tistory.com/365)
 - [Vitest로 테스트 커버리지 확인하고 챙기기](https://citron031.tistory.com/356)
 - [Notes from reading   You Don&#39;t Know JS Yet - 12](https://citron031.tistory.com/362)
-- [window.isSecureContext &amp;mdash; 브라우저가 &amp;ldquo;안전한 페이지&amp;rdquo;인지 판단하는 방법](https://citron031.tistory.com/353)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
