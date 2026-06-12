@@ -38,15 +38,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [citron03/tistory-citron031-sitemap](https://github.com/citron03/tistory-citron031-sitemap)<br>
-2. ⬆️ Pushed undefined commit(s) to [citron03/Pulsefolio](https://github.com/citron03/Pulsefolio)<br>
-3. ⬆️ Pushed undefined commit(s) to [citron03/Pulsefolio](https://github.com/citron03/Pulsefolio)<br>
+1. ⬆️ Pushed undefined commit(s) to [citron03/obsidian](https://github.com/citron03/obsidian)<br>
+2. ⬆️ Pushed undefined commit(s) to [citron03/Codex-Arsenal](https://github.com/citron03/Codex-Arsenal)<br>
+3. ⬆️ Pushed undefined commit(s) to [citron03/Codex-Arsenal](https://github.com/citron03/Codex-Arsenal)<br>
 4. ⬆️ Pushed undefined commit(s) to [citron03/tistory-citron031-sitemap](https://github.com/citron03/tistory-citron031-sitemap)<br>
-5. ⬆️ Pushed undefined commit(s) to [citron03/tistory-citron031-sitemap](https://github.com/citron03/tistory-citron031-sitemap)<br>
+5. ⬆️ Pushed undefined commit(s) to [citron03/Pulsefolio](https://github.com/citron03/Pulsefolio)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 11th, 2026, 4:20:55 AM
+Last Updated: Friday, June 12th, 2026, 4:23:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br/>
