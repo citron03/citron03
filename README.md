@@ -59,11 +59,11 @@ Last Updated: Friday, June 26th, 2026, 4:05:50 AM
 
 # Tistory
 <!-- BLOG-POST-LIST:START -->
+- [IIFE + 구조분해로 객체 키 제거하기](https://citron031.tistory.com/369)
 - [~ AI를 일시키는 법 ~ bkit 완전 해부](https://citron031.tistory.com/358)
 - [Axios 사태로 다시 생각해보는 &amp;ldquo;안전하게 npm 패키지 사용하는 방법&amp;rdquo;](https://citron031.tistory.com/357)
 - [pnpm + Corepack 조합, 왜 요즘 표준처럼 쓰일까?](https://citron031.tistory.com/363)
 - [Notes from reading   You Don&#39;t Know JS Yet - 13](https://citron031.tistory.com/365)
-- [Vitest로 테스트 커버리지 확인하고 챙기기](https://citron031.tistory.com/356)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
