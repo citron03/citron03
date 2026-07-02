@@ -59,11 +59,11 @@ Last Updated: Thursday, July 2nd, 2026, 3:56:41 AM
 
 # Tistory
 <!-- BLOG-POST-LIST:START -->
+- [C / Java / Python 문법 함정 정리](https://citron031.tistory.com/371)
 - [알면 좋은 ☺️ 데이터베이스&lpar;DB&rpar; 핵심 개념 정리](https://citron031.tistory.com/370)
 - [IIFE + 구조분해로 객체 키 제거하기](https://citron031.tistory.com/369)
 - [~ AI를 일시키는 법 ~ bkit 완전 해부](https://citron031.tistory.com/358)
 - [Axios 사태로 다시 생각해보는 &amp;ldquo;안전하게 npm 패키지 사용하는 방법&amp;rdquo;](https://citron031.tistory.com/357)
-- [pnpm + Corepack 조합, 왜 요즘 표준처럼 쓰일까?](https://citron031.tistory.com/363)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
