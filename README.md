@@ -38,15 +38,15 @@
 This is a list of my most recent activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [citron03/frontend-stack-playground](https://github.com/citron03/frontend-stack-playground)<br>
-2. 💪 Opened PR [#28](undefined) in [citron03/frontend-stack-playground](https://github.com/citron03/frontend-stack-playground)<br>
-3. ⬆️ Pushed undefined commit(s) to [citron03/tistory-citron031-sitemap](https://github.com/citron03/tistory-citron031-sitemap)<br>
+1. ⬆️ Pushed undefined commit(s) to [citron03/tistory-citron031-sitemap](https://github.com/citron03/tistory-citron031-sitemap)<br>
+2. ⬆️ Pushed undefined commit(s) to [citron03/frontend-stack-playground](https://github.com/citron03/frontend-stack-playground)<br>
+3. 💪 Opened PR [#28](undefined) in [citron03/frontend-stack-playground](https://github.com/citron03/frontend-stack-playground)<br>
 4. ⬆️ Pushed undefined commit(s) to [citron03/tistory-citron031-sitemap](https://github.com/citron03/tistory-citron031-sitemap)<br>
 5. ⬆️ Pushed undefined commit(s) to [citron03/tistory-citron031-sitemap](https://github.com/citron03/tistory-citron031-sitemap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 3rd, 2026, 3:39:31 AM
+Last Updated: Saturday, July 4th, 2026, 3:32:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br/>
