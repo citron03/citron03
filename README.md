@@ -59,11 +59,11 @@ Last Updated: Sunday, July 12th, 2026, 3:21:35 AM
 
 # Tistory
 <!-- BLOG-POST-LIST:START -->
+- [디자인 패턴 완전 정리 &amp;mdash; 23가지 핵심 개념](https://citron031.tistory.com/376)
 - [소프트웨어 개발 방법론 &amp;middot; 테스트 &amp;middot; 자료구조 &amp;amp; 알고리즘 완전 정리](https://citron031.tistory.com/377)
 - [운영체제 핵심 개념과 계산 문제 완전 정복  &amp;zwj;](https://citron031.tistory.com/375)
 - [floating-ui &amp;mdash; MUI, Radix, Base UI까지 쓰이는 포지셔닝 엔진](https://citron031.tistory.com/341)
 - [개발자가 알아야 할 보안 핵심 개념 정리..,,](https://citron031.tistory.com/374)
-- [개발자가 알아야 할 네트워크 핵심 개념 정리...](https://citron031.tistory.com/373)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
