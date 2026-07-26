@@ -59,11 +59,11 @@ Last Updated: Sunday, July 26th, 2026, 3:23:01 AM
 
 # Tistory
 <!-- BLOG-POST-LIST:START -->
+- [로컬 개발 환경에서 가상호스트&lpar;Virtual Host&rpar;를 써야 하는 이유와 설정 방법](https://citron031.tistory.com/361)
 - [~ AI를 일시키는 법 ! Superpowers](https://citron031.tistory.com/359)
 - [소프트웨어 설계 &amp;middot; 인터페이스 &amp;middot; UI &amp;middot; 패키징 &amp;middot; 신기술 정리하기 ☺️](https://citron031.tistory.com/378)
 - [디자인 패턴 완전 정리 &amp;mdash; 23가지 핵심 개념](https://citron031.tistory.com/376)
 - [소프트웨어 개발 방법론 &amp;middot; 테스트 &amp;middot; 자료구조 &amp;amp; 알고리즘 완전 정리](https://citron031.tistory.com/377)
-- [운영체제 핵심 개념과 계산 문제 완전 정복  &amp;zwj;](https://citron031.tistory.com/375)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
