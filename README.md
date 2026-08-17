@@ -40,13 +40,13 @@ This is a list of my most recent activity on GitHub.
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [citron03/tistory-citron031-sitemap](https://github.com/citron03/tistory-citron031-sitemap)<br>
 2. ⬆️ Pushed undefined commit(s) to [citron03/tistory-citron031-sitemap](https://github.com/citron03/tistory-citron031-sitemap)<br>
-3. ⬆️ Pushed undefined commit(s) to [citron03/practice-nest-11](https://github.com/citron03/practice-nest-11)<br>
-4. ⬆️ Pushed undefined commit(s) to [citron03/frontend-stack-playground](https://github.com/citron03/frontend-stack-playground)<br>
-5. ⬆️ Pushed undefined commit(s) to [citron03/Codex-Arsenal](https://github.com/citron03/Codex-Arsenal)<br>
+3. ⬆️ Pushed undefined commit(s) to [citron03/tistory-citron031-sitemap](https://github.com/citron03/tistory-citron031-sitemap)<br>
+4. ⬆️ Pushed undefined commit(s) to [citron03/practice-nest-11](https://github.com/citron03/practice-nest-11)<br>
+5. ⬆️ Pushed undefined commit(s) to [citron03/frontend-stack-playground](https://github.com/citron03/frontend-stack-playground)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 16th, 2026, 1:37:01 AM
+Last Updated: Monday, August 17th, 2026, 1:34:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br/>
