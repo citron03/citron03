@@ -41,12 +41,10 @@ This is a list of my most recent activity on GitHub.
 1. ⬆️ Pushed undefined commit(s) to [citron03/tistory-citron031-sitemap](https://github.com/citron03/tistory-citron031-sitemap)<br>
 2. ⬆️ Pushed undefined commit(s) to [citron03/tistory-citron031-sitemap](https://github.com/citron03/tistory-citron031-sitemap)<br>
 3. ⬆️ Pushed undefined commit(s) to [citron03/tistory-citron031-sitemap](https://github.com/citron03/tistory-citron031-sitemap)<br>
-4. ⬆️ Pushed undefined commit(s) to [citron03/practice-nest-11](https://github.com/citron03/practice-nest-11)<br>
-5. ⬆️ Pushed undefined commit(s) to [citron03/frontend-stack-playground](https://github.com/citron03/frontend-stack-playground)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 20th, 2026, 1:25:22 AM
+Last Updated: Friday, August 21st, 2026, 1:35:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br/>
