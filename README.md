@@ -56,11 +56,11 @@ Last Updated: Wednesday, August 26th, 2026, 1:36:22 AM
 
 # Tistory
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code 설정 제대로 하기 &amp;mdash; CLAUDE.md, MCP, Skills로 개발 생산성 높이기](https://citron031.tistory.com/354)
 - [String.raw&lpar;&rpar; &amp;mdash; 백슬래시가 자꾸 씹힐 때 써야 하는 이유](https://citron031.tistory.com/379)
 - [React SPA에서 쿠키 다시 정리하기...](https://citron031.tistory.com/368)
 - [로컬 개발 환경에서 가상호스트&lpar;Virtual Host&rpar;를 써야 하는 이유와 설정 방법](https://citron031.tistory.com/361)
 - [~ AI를 일시키는 법 ! Superpowers](https://citron031.tistory.com/359)
-- [소프트웨어 설계 &amp;middot; 인터페이스 &amp;middot; UI &amp;middot; 패키징 &amp;middot; 신기술 정리하기 ☺️](https://citron031.tistory.com/378)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
