@@ -57,11 +57,11 @@ Last Updated: Tuesday, September 29th, 2026, 5:02:56 AM
 
 # Tistory
 <!-- BLOG-POST-LIST:START -->
+- [사람이 클릭한 건지, 코드가 클릭한 건지 &amp;mdash; event.isTrusted로 구분하기](https://citron031.tistory.com/381)
 - [pnpm Windows/macOS 크로스 플랫폼 개발 환경 통일하기](https://citron031.tistory.com/366)
 - [Notes from reading   You Don&#39;t Know JS Yet - 14](https://citron031.tistory.com/383)
 - [Claude Code 설정 제대로 하기 &amp;mdash; CLAUDE.md, MCP, Skills로 개발 생산성 높이기](https://citron031.tistory.com/354)
 - [String.raw&lpar;&rpar; &amp;mdash; 백슬래시가 자꾸 씹힐 때 써야 하는 이유](https://citron031.tistory.com/379)
-- [React SPA에서 쿠키 다시 정리하기...](https://citron031.tistory.com/368)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
