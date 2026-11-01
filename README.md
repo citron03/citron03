@@ -54,11 +54,11 @@ Last Updated: Sunday, November 1st, 2026, 5:13:41 AM
 
 # Tistory
 <!-- BLOG-POST-LIST:START -->
+- [semantic-release, 사용하면 뭐가 좋을까? &amp;mdash; 버전 관리부터 배포 자동화까지](https://citron031.tistory.com/380)
 - [Capacitor로 웹앱을 앱스토어에 올리는 법 &amp;mdash; 네이티브 래퍼가 뭔지부터 알아보자](https://citron031.tistory.com/367)
 - [프론트엔드 개발자를 위한 Multipart 알아보기 ⚡️](https://citron031.tistory.com/364)
 - [사람이 클릭한 건지, 코드가 클릭한 건지 &amp;mdash; event.isTrusted로 구분하기](https://citron031.tistory.com/381)
 - [pnpm Windows/macOS 크로스 플랫폼 개발 환경 통일하기](https://citron031.tistory.com/366)
-- [Notes from reading   You Don&#39;t Know JS Yet - 14](https://citron031.tistory.com/383)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
